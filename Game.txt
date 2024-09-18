@@ -1,0 +1,60 @@
+6 Locations
+Score For Good And Bad
+See Score At End For How Well Or Bad You Did
+Overarching Story to keep everything connected
+Ending Based Off of the players Good/Bad Score
+4 Trophies Based On Items Found
+
+* = NOT CORE
+
+--PRIORITY--
+Player Class - Denis
+	Name
+	Inventory - Access From other code
+		Add Items
+		View Items
+		Check if item is found	
+	Clues Found
+	Clues Missed
+	Player Score
+	*Customisation
+	
+
+NPC Class - Cian
+	Name
+	Interactions
+		Dialogue
+		Clues
+		Items
+	
+	 
+Location Class - Sean
+	Name
+	Sublocation Names
+	NPCS in location
+	Extra/World Clues
+	Extra/World Items
+	
+--PRIORITY--
+
+
+Themes - Cult, String Of Missing People, Somehow Connected.
+	Medival (Skyrimy ish)
+	5 Major Clues - 
+	
+	--2 MINIMIUM CHARACTERS PER LOCATION--
+
+	Pilot - Josh
+	2 - Sean	
+	3 - Max	 **kinda fucking with the player//Red Herring
+	4 - Denis	 
+	5 - Cian
+	Climax - Jamie
+
+1 - Outskirts Of Town
+2 - Start Of Town
+3 - Middle/Center of town
+4 - Mushroom Forest
+5 - Some Sort Of Camp
+6 - Cave System
+	
